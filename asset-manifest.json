@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/app-lab/static/css/main.ccf15046.chunk.css",
+    "main.js": "/app-lab/static/js/main.17ebb03b.chunk.js",
+    "main.js.map": "/app-lab/static/js/main.17ebb03b.chunk.js.map",
+    "runtime-main.js": "/app-lab/static/js/runtime-main.541d1695.js",
+    "runtime-main.js.map": "/app-lab/static/js/runtime-main.541d1695.js.map",
+    "static/js/2.c0c1e491.chunk.js": "/app-lab/static/js/2.c0c1e491.chunk.js",
+    "static/js/2.c0c1e491.chunk.js.map": "/app-lab/static/js/2.c0c1e491.chunk.js.map",
+    "index.html": "/app-lab/index.html",
+    "static/css/main.ccf15046.chunk.css.map": "/app-lab/static/css/main.ccf15046.chunk.css.map",
+    "static/js/2.c0c1e491.chunk.js.LICENSE.txt": "/app-lab/static/js/2.c0c1e491.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/app-lab/static/media/Rectangle.bde69bad.png",
+    "static/media/Designed.08e9f028.png": "/app-lab/static/media/Designed.08e9f028.png",
+    "static/media/Features-phone.0077ae6e.png": "/app-lab/static/media/Features-phone.0077ae6e.png",
+    "static/media/Phone-Vector.40a120cb.png": "/app-lab/static/media/Phone-Vector.40a120cb.png",
+    "static/media/TwoPhones.32ae64c3.png": "/app-lab/static/media/TwoPhones.32ae64c3.png",
+    "static/media/app-download.8bf8f396.png": "/app-lab/static/media/app-download.8bf8f396.png",
+    "static/media/client.5c0b4a20.png": "/app-lab/static/media/client.5c0b4a20.png",
+    "static/media/companies.4c1bc957.png": "/app-lab/static/media/companies.4c1bc957.png",
+    "static/media/holding-phone.4b2cbb7c.png": "/app-lab/static/media/holding-phone.4b2cbb7c.png",
+    "static/media/people.db402e64.png": "/app-lab/static/media/people.db402e64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.541d1695.js",
+    "static/js/2.c0c1e491.chunk.js",
+    "static/css/main.ccf15046.chunk.css",
+    "static/js/main.17ebb03b.chunk.js"
+  ]
+}
